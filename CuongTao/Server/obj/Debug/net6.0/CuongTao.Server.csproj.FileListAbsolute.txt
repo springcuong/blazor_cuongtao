@@ -1,0 +1,178 @@
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Client.staticwebassets.runtime.json
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\appsettings.json
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.staticwebassets.runtime.json
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.exe
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.deps.json
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.runtimeconfig.json
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.pdb
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Humanizer.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Client.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Shared.dll
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Client.pdb
+D:\projectblazor\CuongTao\CuongTao\Server\bin\Debug\net6.0\CuongTao.Shared.pdb
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.csproj.AssemblyReference.cache
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.AssemblyInfoInputs.cache
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.AssemblyInfo.cs
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.csproj.CoreCompileInputs.cache
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.RazorAssemblyInfo.cache
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.RazorAssemblyInfo.cs
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\scopedcss\bundle\CuongTao.Server.styles.css
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.csproj.CopyComplete
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.dll
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\refint\CuongTao.Server.dll
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.pdb
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.genruntimeconfig.cache
+D:\projectblazor\CuongTao\CuongTao\Server\obj\Debug\net6.0\ref\CuongTao.Server.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Client.staticwebassets.runtime.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.staticwebassets.runtime.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.exe
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.deps.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.runtimeconfig.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Server.pdb
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Client.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Shared.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Client.pdb
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\CuongTao.Shared.pdb
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.csproj.AssemblyReference.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.AssemblyInfoInputs.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.AssemblyInfo.cs
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.csproj.CoreCompileInputs.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.RazorAssemblyInfo.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.RazorAssemblyInfo.cs
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\scopedcss\bundle\CuongTao.Server.styles.css
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.csproj.CopyComplete
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\refint\CuongTao.Server.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.pdb
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\CuongTao.Server.genruntimeconfig.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\obj\Debug\net6.0\ref\CuongTao.Server.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Calendars.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.Blazor.Grids.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Server\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll

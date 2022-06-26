@@ -1,0 +1,60 @@
+﻿@page "/"
+
+
+@using Syncfusion.Blazor.Navigations
+<p></p><br />
+<p></p><br />
+<div class="control-container">
+    <SfCarousel>
+        <CarouselItem>
+            <figure class="img-container">
+                <img src="images/carousel/anh1.png" alt="Golden Gate Bridge, San Francisco" style="height:100%;width:100%;" />
+            </figure>
+        </CarouselItem>
+        <CarouselItem>
+            <figure class="img-container">
+                <img src="images/carousel/anh2.png" alt="Spring Flower Trees" style="height:100%;width:100%;" />
+            </figure>
+        </CarouselItem>
+    </SfCarousel>
+</div>
+
+<section class="contact" id="contact">
+        <h1>Hòm thư nhận phản ánh chất lượng dịch vụ</h1>
+        <div class="contact__form">
+            <form action="">
+                <input type="text" name="" id="" placeholder="Name">
+                <input type="text" name="" id="" placeholder="Last Name">
+                <input type="email" name="" id="" placeholder="Email">
+                <input type="tel" name="" id="" placeholder="Phone">
+                <textarea name="" id="" cols="30" rows="10" placeholder="Message"></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        <div class="contact__map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3826.6306181873656!2d107.60181281529145!3d16.443575933663446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3141a165d4577b11%3A0x272b5ef6e5f62be1!2zOTkgSOG7kyDEkOG6r2MgRGksIEFuIEPhu7F1LCBUaMOgbmggcGjhu5EgSHXhur8sIFRo4burYSBUaGnDqm4gSHXhur8sIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1656169020086!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </section>
+<style>
+    .control-container {
+        background-color: #e5e5e5;
+        height: 100%;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .e-carousel .e-carousel-items .e-carousel-item .img-container {
+        height: 100%;
+    }
+
+    .e-carousel .e-carousel-items .e-carousel-item .img-caption {
+        bottom: 4em;
+        color: #fff;
+        font-size: 12pt;
+        height: 2em;
+        position: relative;
+        padding: 0.3em 1em;
+        text-align: center;
+        width: 100%;
+    }
+</style>

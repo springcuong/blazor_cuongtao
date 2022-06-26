@@ -1,0 +1,24 @@
+﻿<div class="row">
+    <div class="col">
+        <p class="teniphone">
+            @Phone.Name
+        </p>
+    </div>
+    <div class="col text-right">
+        <p class="teniphone">
+            @($"{Phone.Price:0}")
+            </p>
+        
+    </div>
+    <div class="col"></div>
+    <div class="col">
+        <img src="@PhoneModelImage(Phone.Phonemodel)"
+        alt="@Phone.Phonemodel" />
+    </div>
+    <div class="col">
+        <button class="@ButtonClass" role="button"
+            @onclick="@(() => Selected.InvokeAsync(Phone))">
+            @ButtonTitle
+        </button>
+    </div>
+</div>

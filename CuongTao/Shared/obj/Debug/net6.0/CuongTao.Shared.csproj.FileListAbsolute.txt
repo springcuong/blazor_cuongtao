@@ -1,0 +1,24 @@
+D:\projectblazor\CuongTao\CuongTao\Shared\bin\Debug\net6.0\CuongTao.Shared.deps.json
+D:\projectblazor\CuongTao\CuongTao\Shared\bin\Debug\net6.0\CuongTao.Shared.dll
+D:\projectblazor\CuongTao\CuongTao\Shared\bin\Debug\net6.0\CuongTao.Shared.pdb
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.csproj.AssemblyReference.cache
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.AssemblyInfoInputs.cache
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.AssemblyInfo.cs
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.csproj.CoreCompileInputs.cache
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.dll
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\refint\CuongTao.Shared.dll
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.pdb
+D:\projectblazor\CuongTao\CuongTao\Shared\obj\Debug\net6.0\ref\CuongTao.Shared.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\bin\Debug\net6.0\CuongTao.Shared.deps.json
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\bin\Debug\net6.0\CuongTao.Shared.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\bin\Debug\net6.0\CuongTao.Shared.pdb
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.csproj.AssemblyReference.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.AssemblyInfoInputs.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.AssemblyInfo.cs
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\refint\CuongTao.Shared.dll
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\CuongTao.Shared.pdb
+C:\Users\Spring Cuong\source\repos\test\CuongTao\Shared\obj\Debug\net6.0\ref\CuongTao.Shared.dll

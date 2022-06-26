@@ -1,0 +1,59 @@
+﻿@page "/dathang"
+
+@using CuongTao.Shared
+@inject IMenuService MenuService
+@inject IOrderService orderService
+<p></p><br />
+<p></p><br />
+@if (State.Menu.Phones.Any()){
+<div class="dathang">
+    <div class="dathang-item dh-it1">
+    <PhoneList Title="Vui lòng chọn sản phẩm"
+    Items="@State.Menu.Phones"
+    ButtonTitle="Thêm"
+    ButtonClass="button-78"
+    Selected="@AddToBasket" />
+    </div>
+    <div class="dathang-item dh-it2">
+    <ShoppingBasket Orders="@State.Basket.Orders"
+    GetPhoneFromId="@State.Menu.GetPhone"
+    Selected="@RemoveFromBasket" />
+    </div>
+    <div class="dathang-item dh-it3">
+    <CustomerEntry Title="Vui lòng nhập thông tin"
+    @bind-Customer="@State.Basket.Customer"
+    ButtonTitle="Thanh toán"
+    ButtonClass="mx-auto w-25 btn button-77"
+    ValidSubmit="PlaceOrder" />
+    </div>
+@*@State.ToJson()*@
+</div>
+
+}
+else {
+    <div class="mx-auto text-center mb-3 mt-3">
+        <div class="spinner-border text-danger" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+}
+
+@code {
+    private State State { get; } = new State();
+
+    protected override async Task OnInitializedAsync() {
+        Menu menu = await MenuService.GetMenu();
+        foreach (Phone phone in menu.Phones) {
+            State.Menu.Add(phone);
+        }
+    }
+    private void AddToBasket(Phone phone)
+        => State.Basket.Add(phone.Id);
+
+    private void RemoveFromBasket(int pos)
+        => State.Basket.RemoveAt(pos);
+    private async Task PlaceOrder() {
+        await orderService.PlaceOrder(State.Basket);
+    }
+}
+

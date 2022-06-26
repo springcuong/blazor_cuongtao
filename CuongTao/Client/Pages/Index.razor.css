@@ -1,0 +1,82 @@
+﻿body {
+}
+.contact {
+    padding: 70px 0px;
+}
+    .contact h1{
+        text-align: center;
+    }
+    .contact__form form {
+        width: 70%;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 15px 30px;
+    }
+
+.contact__form textarea, .contact__form button {
+    grid-column: 1 / span 2;
+    padding: 15px;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.contact__form input {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: all 0.5s;
+}
+
+    .contact__form input:focus {
+        outline: none;
+        box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+    }
+
+.contact__form textarea {
+    border: 1px solid black;
+    resize: none;
+}
+
+    .contact__form textarea::placeholder {
+        color: black;
+    }
+
+    .contact__form textarea:focus {
+        outline: none;
+    }
+
+.contact__form button {
+    border-radius: 0px;
+    color: black;
+    transition: all 0.5s;
+}
+
+    .contact__form button:hover {
+        background-color: black;
+        color: white;
+        border-color: black;
+    }
+
+.contact__map iframe {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.contact__infor {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    text-align: center;
+}
+
+    .contact__infor p {
+        margin: 10px 0px;
+    }
+
+    .contact__infor i {
+        color: #4e2a84;
+        font-size: 2rem;
+    }

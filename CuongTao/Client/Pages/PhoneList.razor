@@ -1,0 +1,11 @@
+﻿<ItemList Items="@Items">
+    <Header>
+        <h1>@Title</h1>
+    </Header>
+    <RowTemplate Context="phone">
+        <PhoneItem Phone="@phone"
+            ButtonClass="@ButtonClass"
+            ButtonTitle="@ButtonTitle"
+            Selected="@Selected" />
+    </RowTemplate>
+</ItemList>
